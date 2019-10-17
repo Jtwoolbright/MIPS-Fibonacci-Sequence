@@ -1,9 +1,6 @@
  #
- # 	Name: 		Woolbright Josh
- # 	Homework: 	#4
- # 	Due: 		10/18/2019
- # 	Course: 	cs-2640-02-f19
- #
+ # 	Coded By: 	Woolbright Josh
+ # 	Date: 		10/16/2019
  # 	Description:
  # 			This program calculates the fibbonaci
  #			sequence of 12.
